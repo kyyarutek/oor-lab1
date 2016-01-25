@@ -1,0 +1,9 @@
+c:\users\rutek\documents\visual studio 2015\Projects\oor_lab1_rutkowski125nci_b\oor_lab1_rutkowski125nci_b\bin\Debug\oor_lab1_rutkowski125nci_b.exe.config
+c:\users\rutek\documents\visual studio 2015\Projects\oor_lab1_rutkowski125nci_b\oor_lab1_rutkowski125nci_b\bin\Debug\oor_lab1_rutkowski125nci_b.exe
+c:\users\rutek\documents\visual studio 2015\Projects\oor_lab1_rutkowski125nci_b\oor_lab1_rutkowski125nci_b\bin\Debug\oor_lab1_rutkowski125nci_b.pdb
+c:\users\rutek\documents\visual studio 2015\Projects\oor_lab1_rutkowski125nci_b\oor_lab1_rutkowski125nci_b\obj\Debug\oor_lab1_rutkowski125nci_b.csprojResolveAssemblyReference.cache
+c:\users\rutek\documents\visual studio 2015\Projects\oor_lab1_rutkowski125nci_b\oor_lab1_rutkowski125nci_b\obj\Debug\oor_lab1_rutkowski125nci_b.Form1.resources
+c:\users\rutek\documents\visual studio 2015\Projects\oor_lab1_rutkowski125nci_b\oor_lab1_rutkowski125nci_b\obj\Debug\oor_lab1_rutkowski125nci_b.Properties.Resources.resources
+c:\users\rutek\documents\visual studio 2015\Projects\oor_lab1_rutkowski125nci_b\oor_lab1_rutkowski125nci_b\obj\Debug\oor_lab1_rutkowski125nci_b.csproj.GenerateResource.Cache
+c:\users\rutek\documents\visual studio 2015\Projects\oor_lab1_rutkowski125nci_b\oor_lab1_rutkowski125nci_b\obj\Debug\oor_lab1_rutkowski125nci_b.exe
+c:\users\rutek\documents\visual studio 2015\Projects\oor_lab1_rutkowski125nci_b\oor_lab1_rutkowski125nci_b\obj\Debug\oor_lab1_rutkowski125nci_b.pdb
